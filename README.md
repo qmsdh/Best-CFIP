@@ -43,10 +43,6 @@ curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/CFcdnym.sh -o CFcdnym.
 curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
 ```
 
-
-脚本3：CF-优选官方IP+反代IP二合一脚本（带测速），苹果安卓手机平板专用：
-    curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
-
 2. 根据自己需要选择序号
 
 3. 优选完成
