@@ -21,6 +21,19 @@ https://apps.apple.com/us/app/termux/id6738933789
 安卓手机APK下载：
 https://github.com/qmsdh/Best-CFIP/releases/tag/termux
 
+
+## 环境安装
+
+### 苹果手机
+
+苹果手机用户，由于ISH最新版有BUG导致脚本运行卡住，请使用ISH_1.2.2版本，可以用巨魔先安装再降级，网上也有其它指定旧版IPA安装的教程
+
+首次安装后，请先安装依赖：```apk add curl bash```，然后运行以下你要使用的脚本
+
+### 安卓手机
+
+首次安装后，请先安装依赖：```pkg upgrade```，然后运行以下你要使用的脚本
+
 ## 手机运行脚本
 
 ⚠️提醒：一定要使用本地网络环境，否则优选出来的IP无意义！
@@ -29,7 +42,7 @@ https://github.com/qmsdh/Best-CFIP/releases/tag/termux
 
 ### 脚本1：CF-优选官方IP (默认美、亚、欧三地区 强烈推荐！！！)，安卓苹果手机平板专用：
 ```
-curl -sSL https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/cf/cf.sh -o cf.sh && chmod +x cf.sh && bash cf.sh
+curl -sSL https://raw.githubusercontent.com/qmsdh/Best-CFIP/main/cf/cf.sh -o cf.sh && chmod +x cf.sh && bash cf.sh
 ```
 -------------------------------------------------------------
 
