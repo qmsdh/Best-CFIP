@@ -7,7 +7,7 @@
 
 ## 说明
 
-本教程由秋名山转载于勇哥的CF优选IP脚本，并非我创作的这个项目！勇哥GitHub：https://github.com/yonggekkk/，转载请一并注明上勇哥的GitHub！
+本教程由秋名山转载于勇哥的CF优选IP脚本，并非我创作的这个项目！勇哥GitHub：https://github.com/yonggekkk/ ，转载请一并注明上勇哥的GitHub！
 
 ## 前言
 
