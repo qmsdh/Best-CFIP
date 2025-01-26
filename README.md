@@ -27,11 +27,21 @@ https://github.com/qmsdh/Best-CFIP/releases/tag/termux
 
 1. 打开termux，根据自己的需要选择脚本，并输入进去。输入完命令并回车。
 
-脚本1：CF-优选官方IP (默认美、亚、欧三地区 强烈推荐！！！)，安卓苹果手机平板专用：
-    curl -sSL https://raw.githubusercontent.com/qmsdh/Best-CFIP/main/cf/cf.sh -o cf.sh && chmod +x cf.sh && bash cf.sh
+### 脚本1：CF-优选官方IP (默认美、亚、欧三地区 强烈推荐！！！)，安卓苹果手机平板专用：
+```
+curl -sSL https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/cf/cf.sh -o cf.sh && chmod +x cf.sh && bash cf.sh
+```
+-------------------------------------------------------------
 
-脚本2：CF-CDN优选公共大厂域名脚本，苹果安卓手机平板专用：
-    curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/CFcdnym.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
+### 脚本2：CF-CDN优选公共大厂域名脚本，苹果安卓手机平板专用：
+```
+curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/CFcdnym.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
+```
+------------------------------------------------------------------------
+### 脚本3：CF-优选官方IP+反代IP二合一脚本（带测速），苹果安卓手机平板专用：
+```
+curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
+```
 
 
 脚本3：CF-优选官方IP+反代IP二合一脚本（带测速），苹果安卓手机平板专用：
